@@ -49,7 +49,7 @@ Our goal is to create a model that can restore images similar to the paper metho
       <sub>Baseline</sub>
     </td>
     <td align="center">
-      <img src="image/183_DSConv.jpg" width="200"/><br/>
+      <img src="image/183_dsconv.jpg" width="200"/><br/>
       <sub>DSConv</sub>
     </td>
   </tr>
@@ -72,7 +72,7 @@ Our goal is to create a model that can restore images similar to the paper metho
       <sub>Baseline</sub>
     </td>
     <td align="center">
-      <img src="image/201_DSConv.jpg" width="200"/><br/>
+      <img src="image/201_dsconv.jpg" width="200"/><br/>
       <sub>DSConv</sub>
     </td>
   </tr>
