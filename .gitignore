@@ -5,7 +5,5 @@ models/__pycache__
 options/__pycache__
 runs/
 weights/
-*.jpg
-*.png
 test.py
 *.txt
